@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>App_April12</name>
+        <order/>
+        <roles>x_snc_app_april12.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>jj</sys_created_by>
+        <sys_created_on>2016-04-13 06:09:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8967973c13b21200174473304244b05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App_April12</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App_April12" source="x_snc_app_april12">4867d33c13b21200174473304244b03f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App_April12">4867d33c13b21200174473304244b03f</sys_scope>
+        <sys_update_name>sys_ui_application_8967973c13b21200174473304244b05a</sys_update_name>
+        <sys_updated_by>jj</sys_updated_by>
+        <sys_updated_on>2016-04-13 06:09:33</sys_updated_on>
+    </sys_ui_application>
+</record_update>
